@@ -1,0 +1,27 @@
+client/design
+client/style-guide.md
+
+# dependencies
+node_modules
+/.pnp
+.pnp.jsg
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn.lock
+yarn-debug.log*
+yarn-error.log*
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
